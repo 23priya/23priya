@@ -12,12 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/priyankak_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankak_23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanka kothule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka kothule" height="30" width="40" /></a>
-<a href="https://instagram.com/priya_k523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priya_k523" height="30" width="40" /></a>
-  
- <a href="https://www.holopin.io/@priya_k" target="blank"><img align="center" src=" https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75 " height="80" width="100" /></a>
-  
-  
-  
+<a href="https://instagram.com/priya_k523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priya_k523" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
